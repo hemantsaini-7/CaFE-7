@@ -9,10 +9,10 @@ Developed and Designed an highly responsive and interactive restaurant website w
 
 
 ### `2. Cool CSS effects.`
-  ### CSS Hover Effects with sliding animation
-  ### Div on div top annimation
+  #### CSS Hover Effects with sliding animation
+  #### Div on div top annimation
 
 
 ### `3. Responsive and Interactive`
-  ### On change navbar depends on devices
-  ### User-Friendly and Interactive
+  #### On change navbar depends on devices
+  #### User-Friendly and Interactive
