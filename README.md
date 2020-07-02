@@ -16,3 +16,7 @@ Developed and Designed an highly responsive and interactive restaurant website w
 ### `3. Responsive and Interactive`
   #### On change navbar depends on devices
   #### User-Friendly and Interactive
+
+
+## Skills
+#### `Javascript` `CSS3` `HTML5`
