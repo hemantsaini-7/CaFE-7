@@ -4,8 +4,8 @@ Developed and Designed an highly responsive and interactive restaurant website w
 ## Project Specification
 
 ### `1. Awesome Animation.`
- ### Highly Responsive with Animations
- ### OnScroll Animation
+ #### Highly Responsive with Animations
+ #### OnScroll Animation
 
 
 ### `2. Cool CSS effects.`
