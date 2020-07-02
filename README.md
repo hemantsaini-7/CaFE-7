@@ -8,6 +8,11 @@ Developed and Designed an highly responsive and interactive restaurant website w
  ### OnScroll Animation
 
 
-### `2. Cool CSS3 effects.`
+### `2. Cool CSS effects.`
   ### CSS Hover Effects with sliding animation
   ### Div on div top annimation
+
+
+### `3. Responsive and Interactive`
+  ### On change navbar depends on devices
+  ### User-Friendly and Interactive
