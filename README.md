@@ -19,4 +19,4 @@ Developed and Designed an highly responsive and interactive restaurant website w
 
 
 ## Skills
-#### `Javascript` `CSS3` `HTML5`
+#### `Javascript` `CSS3` `HTML5` `Animations` `Responsive Designing`
